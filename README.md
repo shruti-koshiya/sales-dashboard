@@ -26,7 +26,7 @@ The goal was to analyze sales performance, product performance, customer behavio
 
 ---
 
-## 🔧 Steps Followed (From Tutorial Workflow)
+## 🔧 Steps Followed
 
 ### **1. Gathering & Loading Data**
 - Imported data from multiple sources (Excel/CSV)  
