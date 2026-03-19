@@ -5,7 +5,7 @@ This project is an interactive **Sales Dashboard** created in Power BI.
 The goal was to analyze sales performance, product performance, customer behavior, and time-based sales trends using powerful DAX calculations.
 
 ## 🔗 Live Dashboard
-[👉 View the live Power BI report](https://app.powerbi.com/view?r=eyJrIjoiZTAzZjlmOTUtYmFhZS00YjMxLWJmYjItMDBmNDc3OTU1ZTM2IiwidCI6IjQ2YWMwMGEyLTBkNjMtNDI5MS1hOGIzLTE3MmI4MDc2OGZhNyJ9)
+[👉 View the live Power BI report](https://app.powerbi.com/links/gvmw90tFL2?ctid=46ac00a2-0d63-4291-a8b3-172b80768fa7&pbi_source=linkShare)
 
 ## 🎯 Objectives
 - Understand business problem around Sales data  
